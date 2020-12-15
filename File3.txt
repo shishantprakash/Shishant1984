@@ -1,3 +1,4 @@
 File to check commiting
 I made changes now
+stash practice
 Hello editing again
